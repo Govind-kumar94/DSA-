@@ -1,0 +1,6 @@
+{
+  "name": "TuneFlow",
+  "description": "Quiet, confident music playlist management system with high-fidelity audio playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
